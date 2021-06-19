@@ -1,0 +1,8 @@
+{
+  "name": "node-jenkins-demo",
+  "version": "1.0.0",
+  "description": "demo nodejs & jenkins",
+  "main": "index.js",
+  "author": "amunra1102@gmail.com",
+  "license": "MIT"
+}
