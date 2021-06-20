@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "amunra1102@gmail.com",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
