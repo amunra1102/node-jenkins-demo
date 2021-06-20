@@ -4,5 +4,11 @@
   "description": "demo nodejs & jenkins",
   "main": "index.js",
   "author": "amunra1102@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
