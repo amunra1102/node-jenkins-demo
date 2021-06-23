@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  web:
+    image: node-jenkins-docker
+    build: .
+    command: node index.js
+    ports:
+      - '3000:3000'
